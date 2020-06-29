@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588845975 source:c:\users\ярослав\downloads\university\computer science\c++\caesar\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

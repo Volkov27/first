@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1591547295 source:c:\users\ярослав\downloads\university\computer science\c++\neuron\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<cmath>
+
